@@ -36,7 +36,7 @@ body {
   padding: 28px 0 32px 0x;
 }
 .header-link a {
-  color: #828282;
+  color:#FFFFFF ;
   text-decoration: none;
 }
 
@@ -69,56 +69,28 @@ body {
 }
 
 .banner-title{
-    width: 493px;
-    height: 66px;
-    left: 431px;
-    top: 279px;
-    
-    font-family: 'Open Sans';
-    font-style: normal;
+  
     font-weight: 300;
     font-size: 55px;
     line-height: 66px;
-    /* identical to box height, or 120% */
-    
-    text-align: center;
-    
     color: #E9E9E9;
 }
 .banner-text{
-    position: absolute;
-    width: 459px;
-    height: 37px;
-    left: 451px;
-    top: 370px;
-    
-    font-family: 'Open Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 22px;
     line-height: 37px;
-    /* identical to box height, or 167% */
-    
-    text-align: center;
-    
     color: #E9E9E9;
 }
 .banner-button{
-    position: absolute;
-    width: 94px;
-    height: 29px;
-    left: 638px;
-    top: 446px;
-    
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 28px;
-    /* identical to box height, or 156% */
-    
-    text-align: center;
-    
-    color: #FFFFFF;
-}
+   background-color: #28a745;
+   padding: 10px 30px 10px 40px;
+   color: white;
+border-radius: 5px;
+display: flex;
+align-items: center;
+margin: 0 auto;
+  }
+  .btn i{
+padding-right:6px ;
+  }
 
