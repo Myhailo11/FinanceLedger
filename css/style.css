@@ -10,8 +10,7 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
-  color: #ffffff;
-}
+  }
 .header {
   position: fixed;
   top: 0;
@@ -30,7 +29,7 @@ body {
   text-decoration: none;
 }
 .header-list {
-  gap: 20px;
+  gap: 39px;
   display: flex;
   list-style: none;
   padding: 28px 0 32px 0x;
@@ -58,13 +57,6 @@ body {
   align-items: center;
 }
 .banner-list {
-  gap: 20px;
-  display: flex;
-  list-style: none;
-  padding: 28px 0 32px 0;
-  border-bottom: 1px solid #828282;
-}
-.banner-list li {
   color: #828282;
 }
 
@@ -80,6 +72,7 @@ body {
     font-size: 22px;
     line-height: 37px;
     color: #E9E9E9;
+   padding: 29px 0; 
 }
 .banner-button{
    background-color: #28a745;
@@ -92,5 +85,30 @@ margin: 0 auto;
   }
   .btn i{
 padding-right:6px ;
+  }
+  .services-list{
+    display: flex;
+    padding: 40px 0 20px 0;
+  }
+  .services-item i{
+    width: 67px;
+    height: 67px;
+    background: #28a745;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  .services-item img{
+  max-width:100% ;
+   height: a;
+  }
+  .services-list{
+    display: flex;
+  }
+  .services-title{
+    font-style: 20xp;
+    padding:  ;
   }
 
