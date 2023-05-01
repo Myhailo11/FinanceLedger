@@ -111,4 +111,45 @@ padding-right:6px ;
     font-style: 20xp;
     padding:  ;
   }
+  .bth {
+    background-color: #28a745;
+    padding: 10px 30px 10px 40px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    font-size: 18px;
+  }
+  .bth i{
+    padding-right:6px ;
+  }
+  .solution{
+    background-color: #28a745 ;
+  }
+  .solution-inner{
+    display: flex;
+    align-items: center;
+
+  }
+  .solution-inner-img{
+   width: 50%;
+   height: auto;
+  }
+  .solution-inner-img img{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+  .solution-inner-text{
+    max-width: 680px;
+    padding-left: 30px;
+  }
+  .btn-secont{
+    margin: 0;
+  }
+  
+
+
 
