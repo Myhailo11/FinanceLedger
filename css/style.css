@@ -149,6 +149,54 @@ padding-right:6px ;
   .btn-secont{
     margin: 0;
   }
+  .bisness {
+    padding-top: 50px;
+  }
+  
+  .bisness-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .bisness-list li {
+    width: 25%;
+    padding: 4px;
+  }
+  
+  .bisness-list img {
+    width: 100%;
+  }
+  
+  .bisness-title {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #333333;
+    padding-bottom: 15px;
+  }
+  
+  .bisness h2 {
+    font-weight: 300;
+    font-size: 38px;
+    text-align: center;
+    color: #333333;
+    padding-bottom: 35px;
+  }
+  
+  .bisness-title2 {
+    font-weight: 400;
+    font-size: 18px;
+    text-align:center;
+     color: #333333;
+    padding-bottom: 15px;
+  }
+  .Blong{
+    background-color: blue;
+  }
+  .Blong-inner{
+    
+  }
+
   
 
 
